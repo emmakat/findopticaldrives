@@ -8,3 +8,4 @@ credit: https://ubuntuforums.org/showthread.php?t=2237670
 ### Another useful command:
 
 lsblk -i -o kname,mountpoint,fstype,size,maj:min,name,state,rm,rota,ro,type,label,model,serial
+credit: https://serverfault.com/questions/190685/whats-the-best-way-to-get-info-about-currently-unmounted-drives
