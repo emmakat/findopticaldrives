@@ -2,7 +2,7 @@
 
 ### lsscsi -g
 credit: https://stromasys.atlassian.net/wiki/spaces/DocCHVAXv49L/pages/347537456/Finding+the+target+dev+sg+device
-[lsscsi -g](https://
+[lsscsi -g](https://github.com/emmakat/findopticaldrives/blob/master/lsscsi%20-g.png)
 
 ### ls -l  
 
