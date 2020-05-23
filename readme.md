@@ -1,8 +1,8 @@
 ## collection of things to help manage optical drives on ubuntu.
 
 ### lsscsi -g
-credit: https://stromasys.atlassian.net/wiki/spaces/DocCHVAXv49L/pages/347537456/Finding+the+target+dev+sg+device
-[lsscsi -g](https://github.com/emmakat/findopticaldrives/blob/master/lsscsi%20-g.png)
+credit: https://stromasys.atlassian.net/wiki/spaces/DocCHVAXv49L/pages/347537456/Finding+the+target+dev+sg+device  
+![lsscsi -g](https://github.com/emmakat/findopticaldrives/blob/master/lsscsi%20-g.png)
 
 ### ls -l  
 
